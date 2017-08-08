@@ -5,6 +5,7 @@ const int BLUE_PIN  =   11;
 const int MIN_LEVEL =    0;
 const int MAX_LEVEL =  255;
 const int SEC       = 1000;
+
 // declare vars
 int redLevel;
 int greenLevel;
